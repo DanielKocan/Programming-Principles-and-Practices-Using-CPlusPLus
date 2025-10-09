@@ -30,3 +30,28 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio
+*.vcxproj*
+*.sln
+*.pdb
+*.idb
+*.ipch
+*.aps
+*.ncb
+*.suo
+*.user
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+*.cachefile
+.vs/
+
+# Build Directories
+/build/
+/bin/
+/lib/
+/out/
+/dist/
+
