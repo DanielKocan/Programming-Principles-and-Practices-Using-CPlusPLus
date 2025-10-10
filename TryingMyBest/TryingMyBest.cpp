@@ -6,7 +6,8 @@
 // Compiler translates the code to machine code. C++ source code -> compiler -> Object code.
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "Hello Programming\n";
+	std::cout << "Here we go!\n";
 	return 0; // Usually 0 indicates that the program ended successfully (intersting: in main and only main you dont need to write return 0, it is added automatically)
 }
 
